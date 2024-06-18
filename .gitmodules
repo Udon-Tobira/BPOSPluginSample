@@ -1,0 +1,3 @@
+[submodule "Plugins/BlueprintOnlineSystemPlugin"]
+	path = Plugins/BlueprintOnlineSystemPlugin
+	url = https://github.com/Udon-Tobira/BlueprintOnlineSystemPlugin.git
